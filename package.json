@@ -1,0 +1,26 @@
+{
+  "name": "web_service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script24.js",
+  "scripts": {
+    "hw_node": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NatalinDe27/web_service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NatalinDe27/web_service/issues"
+  },
+  "homepage": "https://github.com/NatalinDe27/web_service#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  }
+}
