@@ -4,7 +4,7 @@
   "description": "",
   "main": "script24.js",
   "scripts": {
-    "hw_node": "nodemon server.js"
+    "hw_node": "nodemon script24.js"
   },
   "repository": {
     "type": "git",
